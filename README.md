@@ -48,8 +48,8 @@ multiple tasks simultaneously
 - Web and Mobile Testing
 - Database Testing (SQL)
 
-###Certifications
 
+### Certifications
 - <a href="https://www.linkedin.com/learning/certificates/aa090c41c2fcd975171c1172f24facd30604ef61b67c4bbce71a3036c10596d6">Software Testing Foundations</a>
 
 - <a href="https://www.linkedin.com/learning/certificates/61ae36be5759e597965c71850d69db7acec26b83596c2e6770ab463df766bb54">Test Automation Professional Certificate</a>
