@@ -1,7 +1,7 @@
 title: Bharath M R
 #logo:
 description: |
- As a Software Development Engineer in Test (SDET). I develop and execute effective test plans, test cases, and scripts
+ As a Software Development Engineer in Test (SDET), I develop and execute effective test plans, test cases, and scripts
  to ensure the quality and performance of software products. I am skilled in Manual testing, API testing,and Automation using Playwright, a modern web testing framework.
  I also have a deep understanding of the technical aspects of software development, with knowledge of scripting languages, software design patterns,and object-oriented programming.
 #show_downloads: true
@@ -10,5 +10,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 github:
-  zip_url: http://example.com/download.zip
   another_url: https://www.linkedin.com/in/bharath-m-r
