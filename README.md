@@ -1,8 +1,8 @@
 # BHARATH M R
 
 ### Education
-Bachelor of Engineering, Computer Science - DSCE
-Diploma, Computer Science - DSI
+- Bachelor of Engineering, Computer Science - DSCE
+- Diploma, Computer Science - DSI
 
 ### Work Experience
 SDET @ Demandwork Software Private Limited [OSlash]
